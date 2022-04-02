@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Titanic barchart
 
 You can use the [editor on GitHub](https://github.com/kalimeru/titanic.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
